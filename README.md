@@ -5,8 +5,13 @@ debugging. Proficient in Python, SQL, JavaScript, and web development, with a st
 (HTML, CSS, JavaScript, React JS) and REST APIs.
 ## Skills
 <ul>
-<li>JavaScript</li>
+  <li>Advanced Excel</li>
+<li>SQL</li>
+<li>Power BI</li>
+  <li>Tableau</li>
 <li>Python</li>
+<li>Data Cleaning</li>
+<li>JavaScript</li>
 <li>Node Js</li>
 <li>Express Js</li>
 <li>React Js</li>
